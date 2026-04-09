@@ -13,3 +13,7 @@ AI assisted programming
 ## MCP
 - [Meet Ghost in the Droid — a framework that gives any AI agent full control of a real Android phone. 50+ ADB methods, 4 app skills, WebRTC live streaming, job scheduler. ](https://github.com/ghost-in-the-droid/android-agent)
 ***
+
+## Agents
+- [Hermes agent The self-improving AI agent](https://github.com/NousResearch/hermes-agent?tab=readme-ov-file)
+***
