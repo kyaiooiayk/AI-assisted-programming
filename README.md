@@ -18,6 +18,6 @@ AI assisted programming
 - [Hermes agent The self-improving AI agent](https://github.com/NousResearch/hermes-agent?tab=readme-ov-file)
 ***
 
-##DevOps
+## DevOps
 - [A markdown list of must DOs](https://devex.md/)
 ***
