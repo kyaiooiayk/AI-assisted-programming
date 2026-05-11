@@ -12,6 +12,7 @@ AI assisted programming
 
 ## MCP
 - [Meet Ghost in the Droid — a framework that gives any AI agent full control of a real Android phone. 50+ ADB methods, 4 app skills, WebRTC live streaming, job scheduler. ](https://github.com/ghost-in-the-droid/android-agent)
+- [MCP is not REEST API](https://leehanchung.github.io/blogs/2025/05/17/mcp-is-not-rest-api/)
 ***
 
 ## Agents
