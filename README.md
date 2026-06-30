@@ -22,3 +22,7 @@ AI assisted programming
 ## DevOps
 - [A markdown list of must DOs](https://devex.md/)
 ***
+
+## Claude Code
+- [The Claude Code Founder Guide](https://lnkd.in/ezxNt6yF)
+***
