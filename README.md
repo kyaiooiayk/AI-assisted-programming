@@ -25,4 +25,5 @@ AI assisted programming
 
 ## Claude Code
 - [The Claude Code Founder Guide](https://lnkd.in/ezxNt6yF)
+- [Claude Code best practice](https://github.com/shanraisshan/claude-code-best-practice)
 ***
