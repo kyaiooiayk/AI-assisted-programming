@@ -27,3 +27,7 @@ AI assisted programming
 - [The Claude Code Founder Guide](https://lnkd.in/ezxNt6yF)
 - [Claude Code best practice](https://github.com/shanraisshan/claude-code-best-practice)
 ***
+
+## Prompt
+- [Most capable agent system prompt](https://github.com/fainir/most-capable-agent-system-prompt)
+***
